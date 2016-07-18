@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>showAlert</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string> [self showAlertWithStyle:UIAlertControllerStyleAlert
+                    title:&lt;#@"title"#&gt;
+                  message:&lt;#@"message"#&gt;
+        cancelButtonTitle:&lt;#@"OK"#&gt;
+         otherButtonTitle:&lt;#nil#&gt;
+        otherButtonAction:&lt;#nil#&gt;];
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>64032F13-8E0B-4F81-A5BD-BF239C3F6698</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Show Alert Snippet</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
